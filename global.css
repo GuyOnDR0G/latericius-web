@@ -5,34 +5,34 @@ body{
 }
 
 a:link {
-    color: black;
+    color: blue;
     text-decoration: none;
 }
 
 a:visited {
-    color: black;
+    color: purple;
     text-decoration: none;
 }
 
 a:hover {
-    color: black;
+    color: blue;
     text-decoration: none;
 }
 
 a:active {
-    color: black;
+    color: blue;
     text-decoration: none;
 } 
 
 button{
-	background-color:white;
+	background-color:gray;
 	border:1px solid black;
 	padding:10px;
-	width:150px;
+	/*width:150px;    add back?*/
 	margin: 5px;
 	margin-left: 5px;
 	margin-right: 5px;
-	border-radius: 5px;
+	border-radius: 2px;
 }
 
 #Overlay{
@@ -52,10 +52,10 @@ button{
 /* Standard Box */
 .SBox{ 
 	background-color:white;
-	border-radius: 5px;
-	padding:15px;
+	border-radius: 2px;
+	padding:5px;
 	width:300px;
-	margin-top:10%;
+	margin-top:5%;
 }
 
 .Ginput{
